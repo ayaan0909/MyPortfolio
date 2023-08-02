@@ -14,7 +14,7 @@ const Home = () => {
           <h2 className="text-4xl sm:text-7xl font-bold text-white">
             I'm a Full Stack Developer
           </h2>
-          <p className="text-gray-500 py-4 max-w-md">
+          <p className="text-gray-500 py-4 max-w-md ">
             I am fresher in  building and desgining software.
             Currently, I love to work on web application using technologies like
             React, Tailwind, Javascript and nodejs.
